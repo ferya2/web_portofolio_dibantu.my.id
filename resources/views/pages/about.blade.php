@@ -25,19 +25,23 @@
                     <div class="heading-section mb-5 pl-md-5">
                         <div class="pl-md-5 ml-md-5">
                             <span class="subheading subheading-with-line"><small class="pr-2 bg-white">About</small></span>
-                            <h2 class="mb-4">We are the best Interior, Exterior &amp; Architecture Firm</h2>
+                            <h2 class="mb-4">Helping businesses &amp; organizations succeed with effortless website creation.</h2>
                         </div>
                     </div>
                     <div class="pl-md-5 ml-md-5 mb-5">
-                        <p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it
-                            would have been rewritten a thousand times and everything that was left from its origin would be
-                            the word "and" and the Little Blind Text should turn around and return to its own, safe country.
-                            But nothing the copy said could convince her and so it didn’t take long until a few insidious
-                            Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their
-                            agency, where they abused her for their.</p>
-                        <p>When she reached the first hills of the Italic Mountains, she had a last view back on the skyline
-                            of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own
-                            road, the Line Lane. Pityful a rethoric question ran over her cheek, then she continued her way.
+                        <p><b>Dibantu</b> is a revolutionary platform that empowers individuals and organizations to promote
+                            and
+                            grow their products or services through modern website technology. Focused on digital
+                            transformation, <b>Dibantu</b> offers an easy and affordable solution for small businesses,
+                            orphanages,
+                            and social organizations to enhance their digital presence. Users can create professional,
+                            visually appealing websites without needing technical skills, making digital technology more
+                            inclusive and accessible.</p>
+                        <p>With intuitive features like responsive designs, digital marketing tools, and simple content
+                            management, <b>Dibantu</b> is committed to helping communities reach wider audiences and
+                            maximize their
+                            potential in the digital era. We believe everyone deserves the opportunity to thrive and compete
+                            in today’s rapidly evolving world.
                         </p>
                         <p><a href="#" class="btn-custom">Learn More <span class="ion-ios-arrow-forward"></span></a>
                         </p>
