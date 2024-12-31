@@ -4,8 +4,8 @@
             <div class="col-md">
                 <div class="ftco-footer-widget mb-4">
                     <h2 class="ftco-heading-2">dibantu.</h2>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there
-                        live the blind texts.</p>
+                    <p>Dibantu is a simple platform that helps MSMEs and organizations easily create websites to
+                        maximize business potential in the digital era.</p>
                     <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-3">
                         <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                         <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
@@ -18,10 +18,14 @@
                     <h2 class="ftco-heading-2">Links</h2>
                     <ul class="list-unstyled">
                         <li><a href="{{ url('/') }}"><span class="icon-long-arrow-right mr-2"></span>Home</a></li>
-                        <li><a href="{{ route('about') }}"><span class="icon-long-arrow-right mr-2"></span>About</a></li>
-                        <li><a href="{{ route('services') }}"><span class="icon-long-arrow-right mr-2"></span>Services</a></li>
-                        <li><a href="{{ route('project') }}"><span class="icon-long-arrow-right mr-2"></span>Projects</a></li>
-                        <li><a href="{{ route('contact') }}"><span class="icon-long-arrow-right mr-2"></span>Contact</a></li>
+                        <li><a href="{{ route('about') }}"><span class="icon-long-arrow-right mr-2"></span>About</a>
+                        </li>
+                        <li><a href="{{ route('services') }}"><span
+                                    class="icon-long-arrow-right mr-2"></span>Services</a></li>
+                        <li><a href="{{ route('project') }}"><span
+                                    class="icon-long-arrow-right mr-2"></span>Projects</a></li>
+                        <li><a href="{{ route('contact') }}"><span class="icon-long-arrow-right mr-2"></span>Contact</a>
+                        </li>
                     </ul>
                 </div>
             </div>

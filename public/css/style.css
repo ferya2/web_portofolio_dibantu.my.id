@@ -4878,7 +4878,7 @@ a.close.disabled {
   .bs-popover-top .arrow::before, .bs-popover-auto[x-placement^="top"] .arrow::before {
     bottom: 0;
     border-top-color: rgba(0, 0, 0, 0.25); }
-  
+
   .bs-popover-top .arrow::after,
   .bs-popover-auto[x-placement^="top"] .arrow::after {
     bottom: 1px;
@@ -4898,7 +4898,7 @@ a.close.disabled {
   .bs-popover-right .arrow::before, .bs-popover-auto[x-placement^="right"] .arrow::before {
     left: 0;
     border-right-color: rgba(0, 0, 0, 0.25); }
-  
+
   .bs-popover-right .arrow::after,
   .bs-popover-auto[x-placement^="right"] .arrow::after {
     left: 1px;
@@ -4915,7 +4915,7 @@ a.close.disabled {
   .bs-popover-bottom .arrow::before, .bs-popover-auto[x-placement^="bottom"] .arrow::before {
     top: 0;
     border-bottom-color: rgba(0, 0, 0, 0.25); }
-  
+
   .bs-popover-bottom .arrow::after,
   .bs-popover-auto[x-placement^="bottom"] .arrow::after {
     top: 1px;
@@ -4944,7 +4944,7 @@ a.close.disabled {
   .bs-popover-left .arrow::before, .bs-popover-auto[x-placement^="left"] .arrow::before {
     right: 0;
     border-left-color: rgba(0, 0, 0, 0.25); }
-  
+
   .bs-popover-left .arrow::after,
   .bs-popover-auto[x-placement^="left"] .arrow::after {
     right: 1px;
@@ -8095,7 +8095,9 @@ h1, h2, h3, h4, h5,
         color: #fff;
         background: #0033c7; } }
   .ftco-navbar-light .navbar-nav > .nav-item.active > a {
-    color: #0033c7; }
+    /* color: #0033c7; } */
+    color: #141313;
+    font-weight: bold; }
     @media (max-width: 991.98px) {
       .ftco-navbar-light .navbar-nav > .nav-item.active > a {
         color: #fff; } }
@@ -8190,7 +8192,8 @@ h1, h2, h3, h4, h5,
     bottom: 0;
     content: '';
     opacity: .8;
-    background: #0033c7; }
+    /* background: #0033c7; } */
+    background: #000000; }
   .hero-wrap.hero-wrap-2 {
     height: 300px; }
     .hero-wrap.hero-wrap-2 .slider-text {
@@ -8333,7 +8336,8 @@ h1, h2, h3, h4, h5,
               margin-right: -250px; } }
           @media (max-width: 991.98px) {
             .owl-carousel.home-slider .slider-item .slider-text .text {
-              background: rgba(255, 255, 255, 0.3);
+              background: rgba(255, 255, 255, .7);
+              /* background: rgba(0, 0, 0, 0.4); */
               padding: 2em; } }
         .owl-carousel.home-slider .slider-item .slider-text h1 {
           font-size: 60px;
@@ -8344,7 +8348,8 @@ h1, h2, h3, h4, h5,
             color: #000000; }
           @media (max-width: 991.98px) {
             .owl-carousel.home-slider .slider-item .slider-text h1 {
-              color: #0033c7; } }
+              /* color: #0033c7;  */
+              color: #141313; } }
           @media (max-width: 767.98px) {
             .owl-carousel.home-slider .slider-item .slider-text h1 {
               font-size: 30px; } }
@@ -8355,7 +8360,8 @@ h1, h2, h3, h4, h5,
           color: rgba(0, 0, 0, 0.8); }
           @media (max-width: 991.98px) {
             .owl-carousel.home-slider .slider-item .slider-text p {
-              color: #0033c7; } }
+              /* color: #141313;  */
+              color: #000000; } }
           .owl-carousel.home-slider .slider-item .slider-text p.sub-p {
             font-weight: 400; }
           .owl-carousel.home-slider .slider-item .slider-text p strong {
@@ -8476,20 +8482,27 @@ h1, h2, h3, h4, h5,
   .btn:hover, .btn:active, .btn:focus {
     outline: none; }
   .btn.btn-primary {
-    background: #0033c7;
-    border: 1px solid #0033c7;
+    /* background: #0033c7; */
+    background: #141313;
+    /* border: 1px solid #0033c7; */
+    border: 1px solid #141313;
     color: #fff; }
     .btn.btn-primary:hover {
-      border: 1px solid #0033c7;
+      /* border: 1px solid #0033c7; */
+      border: 1px solid #141313;
       background: transparent;
-      color: #0033c7; }
+      /* color: #0033c7; } */
+      color: #141313; }
     .btn.btn-primary.btn-outline-primary {
-      border: 1px solid #0033c7;
+      /* border: 1px solid #0033c7; */
+      border: 1px solid #141313;
       background: transparent;
-      color: #0033c7; }
+      /* color: #0033c7; } */
+      color: #141313; }
       .btn.btn-primary.btn-outline-primary:hover {
         border: 1px solid transparent;
-        background: #0033c7;
+        /* background: #0033c7; */
+    background: #141313;
         color: #fff; }
   .btn.btn-white {
     background: #fff;
@@ -8554,7 +8567,8 @@ h1, h2, h3, h4, h5,
       position: relative;
       width: 100px;
       height: 100px;
-      background: #0033c7;
+      /* background: #0033c7; */
+      background: #141313;
       -webkit-border-radius: 50%;
       -moz-border-radius: 50%;
       -ms-border-radius: 50%;
@@ -8581,7 +8595,8 @@ h1, h2, h3, h4, h5,
       border-radius: 50%; }
       .ftco-services .services.services-2 .icon span {
         font-size: 50px;
-        color: #0033c7; }
+        color: #0033c7;
+        color: #141313; }
 
 @media (max-width: 767.98px) {
   .img-2 {
@@ -9252,7 +9267,8 @@ textarea.form-control {
     content: '';
     z-index: -1;
     opacity: .8;
-    background: #0033c7; }
+    /* background: #0033c7;  */
+    background: #000000; }
 
 .ftco-counter {
   padding: 6em 0; }

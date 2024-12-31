@@ -7,7 +7,7 @@
     @include('home.service')
     @include('home.project')
     @include('home.testimony')
-    @include('home.team')
+    {{-- @include('home.team') --}}
     @include('home.recent-blog')
     @include('home.client')
 @endsection

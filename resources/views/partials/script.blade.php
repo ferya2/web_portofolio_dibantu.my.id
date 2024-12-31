@@ -15,3 +15,14 @@
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
 <script src="js/google-map.js"></script>
 <script src="js/main.js"></script>
+
+<script>
+    function checkAndNavigate(event) {
+        // Jika ada halaman sebelumnya, gunakan pop
+        if (window.history.length > 1) {
+            event.preventDefault(); // Cegah reload halaman
+            window.history.back();
+        }
+        // Jika tidak ada history sebelumnya, biarkan link berfungsi normal
+    }
+</script>
