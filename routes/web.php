@@ -45,4 +45,7 @@ Route::get('/contact', function () {
     return view('pages.contact');
 })->name('contact');
 
+Route::post('/send-email', [ContactController::class, 'sendEmail'])->name('send.email');
+
+
 
