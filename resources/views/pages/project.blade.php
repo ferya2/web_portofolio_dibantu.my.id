@@ -43,12 +43,12 @@
             <div class="row no-gutters">
                 <div class="col-md-6 col-lg-3 ftco-animate">
                     <div class="project">
-                        <img src="images/work-1.jpg" class="img-fluid" alt="Colorlib Template">
+                        <img src="images/dibantu_images/FoodAppMobileCanva.png" class="img-fluid" alt="Colorlib Template">
                         <div class="text">
-                            <span>Interior Design</span>
-                            <h3><a href="project.html">Office Interior Design</a></h3>
+                            <span>Food App</span>
+                            <h3><a href="project.html">Aplikasi Pemesanan Makanan</a></h3>
                         </div>
-                        <a href="images/work-1.jpg"
+                        <a href="images/dibantu_images/FoodAppMobileCanva.png"
                             class="icon image-popup d-flex justify-content-center align-items-center">
                             <span class="icon-expand"></span>
                         </a>
@@ -56,12 +56,12 @@
                 </div>
                 <div class="col-md-6 col-lg-3 ftco-animate">
                     <div class="project">
-                        <img src="images/work-2.jpg" class="img-fluid" alt="Colorlib Template">
+                        <img src="images/dibantu_images/FoodAppMobileCanva.png" class="img-fluid" alt="Colorlib Template">
                         <div class="text">
-                            <span>Interior Design</span>
-                            <h3>Office Interior Design</h3>
+                            <span>Food App</span>
+                            <h3><a href="project.html">Aplikasi Pemesanan Makanan</a></h3>
                         </div>
-                        <a href="images/work-2.jpg"
+                        <a href="images/dibantu_images/FoodAppMobileCanva.png"
                             class="icon image-popup d-flex justify-content-center align-items-center">
                             <span class="icon-expand"></span>
                         </a>
@@ -69,12 +69,12 @@
                 </div>
                 <div class="col-md-6 col-lg-3 ftco-animate">
                     <div class="project">
-                        <img src="images/work-3.jpg" class="img-fluid" alt="Colorlib Template">
+                        <img src="images/dibantu_images/FoodAppMobileCanva.png" class="img-fluid" alt="Colorlib Template">
                         <div class="text">
-                            <span>Interior Design</span>
-                            <h3>Office Interior Design</h3>
+                            <span>Food App</span>
+                            <h3><a href="project.html">Aplikasi Pemesanan Makanan</a></h3>
                         </div>
-                        <a href="images/work-3.jpg"
+                        <a href="images/dibantu_images/FoodAppMobileCanva.png"
                             class="icon image-popup d-flex justify-content-center align-items-center">
                             <span class="icon-expand"></span>
                         </a>
@@ -82,123 +82,19 @@
                 </div>
                 <div class="col-md-6 col-lg-3 ftco-animate">
                     <div class="project">
-                        <img src="images/work-4.jpg" class="img-fluid" alt="Colorlib Template">
+                        <img src="images/dibantu_images/FoodAppMobileCanva.png" class="img-fluid" alt="Colorlib Template">
                         <div class="text">
-                            <span>Interior Design</span>
-                            <h3>Office Interior Design</h3>
+                            <span>Food App</span>
+                            <h3><a href="project.html">Aplikasi Pemesanan Makanan</a></h3>
                         </div>
-                        <a href="images/work-4.jpg"
-                            class="icon image-popup d-flex justify-content-center align-items-center">
-                            <span class="icon-expand"></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 ftco-animate">
-                    <div class="project">
-                        <img src="images/work-5.jpg" class="img-fluid" alt="Colorlib Template">
-                        <div class="text">
-                            <span>Landscape Design</span>
-                            <h3>Office Interior Design</h3>
-                        </div>
-                        <a href="images/work-5.jpg"
-                            class="icon image-popup d-flex justify-content-center align-items-center">
-                            <span class="icon-expand"></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 ftco-animate">
-                    <div class="project">
-                        <img src="images/work-6.jpg" class="img-fluid" alt="Colorlib Template">
-                        <div class="text">
-                            <span>Exterior Design</span>
-                            <h3>Office Interior Design</h3>
-                        </div>
-                        <a href="images/work-6.jpg"
-                            class="icon image-popup d-flex justify-content-center align-items-center">
-                            <span class="icon-expand"></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 ftco-animate">
-                    <div class="project">
-                        <img src="images/work-7.jpg" class="img-fluid" alt="Colorlib Template">
-                        <div class="text">
-                            <span>Exterior Design</span>
-                            <h3>Office Interior Design</h3>
-                        </div>
-                        <a href="images/work-7.jpg"
-                            class="icon image-popup d-flex justify-content-center align-items-center">
-                            <span class="icon-expand"></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 ftco-animate">
-                    <div class="project">
-                        <img src="images/work-8.jpg" class="img-fluid" alt="Colorlib Template">
-                        <div class="text">
-                            <span>Interior Design</span>
-                            <h3>Office Interior Design</h3>
-                        </div>
-                        <a href="images/work-8.jpg"
-                            class="icon image-popup d-flex justify-content-center align-items-center">
-                            <span class="icon-expand"></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 ftco-animate">
-                    <div class="project">
-                        <img src="images/work-9.jpg" class="img-fluid" alt="Colorlib Template">
-                        <div class="text">
-                            <span>Landscape Design</span>
-                            <h3>Office Interior Design</h3>
-                        </div>
-                        <a href="images/work-9.jpg"
-                            class="icon image-popup d-flex justify-content-center align-items-center">
-                            <span class="icon-expand"></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 ftco-animate">
-                    <div class="project">
-                        <img src="images/work-10.jpg" class="img-fluid" alt="Colorlib Template">
-                        <div class="text">
-                            <span>Exterior Design</span>
-                            <h3>Office Interior Design</h3>
-                        </div>
-                        <a href="images/work-10.jpg"
-                            class="icon image-popup d-flex justify-content-center align-items-center">
-                            <span class="icon-expand"></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 ftco-animate">
-                    <div class="project">
-                        <img src="images/work-11.jpg" class="img-fluid" alt="Colorlib Template">
-                        <div class="text">
-                            <span>Exterior Design</span>
-                            <h3>Office Interior Design</h3>
-                        </div>
-                        <a href="images/work-11.jpg"
-                            class="icon image-popup d-flex justify-content-center align-items-center">
-                            <span class="icon-expand"></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 ftco-animate">
-                    <div class="project">
-                        <img src="images/work-12.jpg" class="img-fluid" alt="Colorlib Template">
-                        <div class="text">
-                            <span>Interior Design</span>
-                            <h3>Office Interior Design</h3>
-                        </div>
-                        <a href="images/work-12.jpg"
+                        <a href="images/dibantu_images/FoodAppMobileCanva.png"
                             class="icon image-popup d-flex justify-content-center align-items-center">
                             <span class="icon-expand"></span>
                         </a>
                     </div>
                 </div>
             </div>
-            <div class="row no-gutters mt-5">
+            {{-- <div class="row no-gutters mt-5">
                 <div class="col text-center">
                     <div class="block-27">
                         <ul>
@@ -212,7 +108,7 @@
                         </ul>
                     </div>
                 </div>
-            </div>
+            </div> --}}
         </div>
     </section>
 @endsection

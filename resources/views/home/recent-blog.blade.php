@@ -1,4 +1,4 @@
-<section class="ftco-section bg-light">
+{{-- <section class="ftco-section bg-light">
     <div class="container">
         <div class="row justify-content-start mb-5 pb-2">
             <div class="col-md-4 heading-section ftco-animate">
@@ -66,4 +66,4 @@
             </div>
         </div>
     </div>
-</section>
+</section> --}}

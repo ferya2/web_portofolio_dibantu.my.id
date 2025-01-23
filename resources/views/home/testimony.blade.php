@@ -1,4 +1,4 @@
-<section class="ftco-section testimony-section bg-light">
+{{-- <section class="ftco-section testimony-section bg-light">
     <div class="container">
         <div class="row justify-content-center mb-5 pb-3">
             <div class="col-md-7 heading-section ftco-animate">
@@ -100,4 +100,4 @@
             </div>
         </div>
     </div>
-</section>
+</section> --}}
